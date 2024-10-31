@@ -1,1 +1,2 @@
+Estoy cambiando el texto de archivo 1 desde rama "Main"
 Soy un texto ultra mega diferente creado desde rama 2
