@@ -1,0 +1,22 @@
+Crear un proyecto nuevo en Visual estudio
+Crear carpeta llamada Git2
+Crear archi1 archivo2 archivo3
+Inicializa Git
+Confirma tu primer cambio
+Crea la rama 2
+Crea archivo3 archivo4
+Confirma los cambios. 
+Crear archivo 5 y agregar texto en los archivos 3 y 4.
+Confirma los cambios. 
+Párate (checkout en tu rama main)
+Mezcla los cambios de la rama main con la rama 2.
+Si te da conflicto resuélvelos.
+¿Te dio conflicto? Porque si? Por que no ¿
+Cambia el texto en el archivo 1 y confirma el cambio.
+Párate en la rama 2 cambia a un texto completamente diferente en el archivo 1.
+Mezcla la rama main con la rama 2 (los cambios tienen que quedar en la rama 2)
+Si te da conflicto resuélvelos.
+¿Te dio conflicto? ¿Porque si?  ¿Por qué no?
+
+
+ 
