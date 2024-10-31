@@ -4,7 +4,7 @@ Crear archi1 archivo2 archivo3
 Inicializa Git
 Confirma tu primer cambio
 Crea la rama 2
-Crea archivo3 archivo4
+Crea archivo4
 Confirma los cambios. 
 Crear archivo 5 y agregar texto en los archivos 3 y 4.
 Confirma los cambios. 
